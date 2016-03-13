@@ -1,6 +1,6 @@
 name: The Morry Method
 favicon: null
-layout_spectrum: 0.0105
+layout_spectrum: 1
 typography_spectrum: 0.81369
 title: The Morry Methjod
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#215a8c'
     - '#ffffff'
-    - '#ff6329'
-    - '#42a0f2'
+    - '#000000'
+    - '#c9cbdd'
+    - '#728395'
+    - '#1e2e2e'
   brandStrength: 0.33797474089078605
   lightness: 0.6717719053849578
   saturation: 0.07341943751089275
